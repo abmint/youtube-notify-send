@@ -2,7 +2,7 @@
 youtubeのrssから更新情報を取得して[notify-send](https://github.com/GNOME/libnotify)でポップアップ通知をするスクリプトです。
 
 # スクリーンショット
-![画像名](./screenshot.png)
+![screenshot](./screenshot.png)
 
 # 説明
 
